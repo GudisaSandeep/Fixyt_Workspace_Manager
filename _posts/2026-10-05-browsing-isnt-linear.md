@@ -48,6 +48,29 @@ Fixyt started with a simple question:
 
 > What would a browser look like if it were designed around the way people actually work?
 
+## See Fixyt in Action
+
+<div align="center">
+
+### 🎬 See Fixyt in Action
+
+<p><strong>One workspace. Your tabs, context, tasks, notes, and workflows in one visual environment.</strong></p>
+
+<!--
+VIDEO PLACEHOLDER
+
+Replace the block below with the final Fixyt product video embed.
+
+Recommended:
+<video controls width="100%" poster="YOUR_POSTER_IMAGE_URL">
+  <source src="YOUR_VIDEO_URL.mp4" type="video/mp4">
+</video>
+-->
+
+<p>Product video coming soon.</p>
+
+</div>
+
 ## The tab was never designed for this
 
 The browser tab is excellent at one thing: opening a page.
