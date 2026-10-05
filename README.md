@@ -6,13 +6,16 @@
 
 <p><strong>Browsing isn't Linear anymore.</strong></p>
 
+<img width="1672" height="941" alt="Nonlinear Browsing with Fixyt" src="https://github.com/user-attachments/assets/22928eab-3044-410e-a768-031826827306" />
 
 
-<img src="https://github.com/user-attachments/assets/1901acdd-bc7f-4c63-9951-8b0a07bb1ab3" alt="Fixyt workspace banner" width="100%" />
+
 
 </div>
 
 Fixyt is a spatial browser workspace manager that turns the traditional linear tab bar into a visual, interactive 2D workspace. Instead of treating tabs as a stack of isolated pages, Fixyt lets you organize, connect, save, restore, annotate, search, and collaborate around the context of your work.
+
+<img src="https://github.com/user-attachments/assets/1901acdd-bc7f-4c63-9951-8b0a07bb1ab3" alt="Fixyt workspace banner" width="100%" />
 
 🌐 **Website:** https://fixyt.in  
 🧩 **Product:** Fixyt Workspace Manager  
