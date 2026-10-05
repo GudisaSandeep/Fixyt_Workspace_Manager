@@ -6,6 +6,8 @@
 
 <p><strong>Browsing isn't Linear anymore.</strong></p>
 
+
+
 <img src="https://github.com/user-attachments/assets/1901acdd-bc7f-4c63-9951-8b0a07bb1ab3" alt="Fixyt workspace banner" width="100%" />
 
 </div>
