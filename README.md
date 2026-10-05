@@ -1,12 +1,14 @@
-# Fixyt
+<div align="center">
 
-<img width="1254" height="1254" alt="fixytlogo" src="https://github.com/user-attachments/assets/d30dd0b6-fe1c-4ead-be25-5026a1934096" />
+<img src="https://github.com/user-attachments/assets/d30dd0b6-fe1c-4ead-be25-5026a1934096" alt="Fixyt logo" width="180" />
 
-<img width="2075" height="758" alt="ChatGPT Image Sep 23, 2026, 07_16_27 AM" src="https://github.com/user-attachments/assets/1901acdd-bc7f-4c63-9951-8b0a07bb1ab3" />
+<h1>Fixyt</h1>
 
+<p><strong>Browsing isn't Linear anymore.</strong></p>
 
+<img src="https://github.com/user-attachments/assets/1901acdd-bc7f-4c63-9951-8b0a07bb1ab3" alt="Fixyt workspace banner" width="100%" />
 
-> **Browsing isn't Linear anymore.**
+</div>
 
 Fixyt is a spatial browser workspace manager that turns the traditional linear tab bar into a visual, interactive 2D workspace. Instead of treating tabs as a stack of isolated pages, Fixyt lets you organize, connect, save, restore, annotate, search, and collaborate around the context of your work.
 
